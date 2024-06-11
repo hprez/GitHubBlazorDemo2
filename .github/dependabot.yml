@@ -1,7 +1,7 @@
 version: 2
 updates:
   - package-ecosystem: "nuget" # See documentation for possible values
-    directory: "/GitHubBlazorDemo" # Location of package manifests
+    directory: "/GitHubBlazorDemo2" # Location of package manifests
     schedule:
       interval: "weekly"
   - package-ecosystem: "github-actions"
